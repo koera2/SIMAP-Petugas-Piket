@@ -13,6 +13,14 @@ Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekol
 * Surat Peringatan
 ![Foto Surat Peringatan](ss_program/sp/daftar.png "Daftar Siswa yang terkena Surat Peringatan")
 
+## Teknologi
+* PHP 5
+* MySQL
+* HTML
+* CSS
+* Javascript
+* Bootstrap 
+
 ## Info Developer
 Jika ada pertanyaan bisa hubungi kontak dibawah : 
 * [Email](mailto:ramdanzidun@gmail.com) - ramdanzidun@gmail.com
